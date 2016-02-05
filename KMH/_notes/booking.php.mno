@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_custdetails" value="name:FirstName;datatype:string,name:Sur-Name;datatype:string,name:Id/Passport;datatype:string,name:Gender;datatype:int" />
+	<infoitem key="UD_details" value="name:FirstName;datatype:string,name:Sur-Name;datatype:string,name:Id/Passport;datatype:string,name:Gender;datatype:int" />
+	<infoitem key="UD_Recordset1" value="name:UserID;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:IDNo;datatype:int,name:Email;datatype:string" />
+	<infoitem key="UD_book" value="name:UserID;datatype:int,name:FirstName;datatype:string,name:LastName;datatype:string,name:IDNo;datatype:int,name:Email;datatype:string,name:RegDate;datatype:timestamp" />
+</info>
